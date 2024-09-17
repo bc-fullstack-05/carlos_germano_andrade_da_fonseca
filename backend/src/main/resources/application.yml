@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: api
+  datasource:
+    url: jdbc:postgresql://localhost:5432/backend
+    username: bootcamp
+    password: backendpass
+  jpa:
+    show-sql: true
+    database: postgresql
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
+    generate-ddl: true
+    defer-datasource-initialization: true
+server:
+  port: 8080
+  servlet:
+    context-path: /api
