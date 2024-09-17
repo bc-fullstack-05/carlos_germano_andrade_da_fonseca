@@ -1,4 +1,4 @@
-#  Spotify Web Api Integration
+#  Vinyl record e-commerce
 ## Description
 This application is responsible for album sales and calculates points for customers based on points on the days of the week
 
