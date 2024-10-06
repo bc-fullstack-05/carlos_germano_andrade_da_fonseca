@@ -1,0 +1,27 @@
+.card {
+    width: 264px;
+    height: 264px;
+    color: #fff;
+    box-shadow: 1px 1px 10px 1px #ffffff46;
+}
+
+.infos {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+    padding: 20px;
+    height: 100%;
+}
+
+.title {
+    margin-top: 80px;
+    font-size: 38px;
+    word-break: break-all;
+}
+
+.price {
+    margin-left: 150px;
+    font-size: 20px;
+    text-wrap: nowrap;
+}

@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    color: #000;
+ }
+
+ .label {
+    font-size: 16px;
+    font-weight: 600;
+    text-wrap: nowrap;
+    margin-left: 10px;
+ }
+ 
+.input{
+    width: 200px;
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid #727070;
+    outline: none;
+    color: #000;
+    font-size: 16px;
+    padding: 0;
+    margin-left: 10px;
+    margin-top: 10px;
+}

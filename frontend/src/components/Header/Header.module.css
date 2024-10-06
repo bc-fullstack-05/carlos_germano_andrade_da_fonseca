@@ -1,0 +1,34 @@
+.header{
+    background-color: rgba(255, 253, 253, 0.253);
+    backdrop-filter: blur(15px);
+    padding: 10px;
+    z-index: 1;
+}
+
+
+.headerLogin{
+    background-color: rgb(107, 107, 107);
+    backdrop-filter: blur(15px);
+    padding: 10px;
+    width: 100%;
+    z-index: 1;
+}
+
+.containerHeader{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.buttonLogin {
+    background-color: #010B0F;
+    color: #FFF;
+}
+
+.buttonRegister {
+    background-color: #9EE2FF;
+}
+
+.img{
+    object-fit: contain;
+}

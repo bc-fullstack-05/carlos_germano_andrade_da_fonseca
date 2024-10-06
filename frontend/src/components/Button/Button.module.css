@@ -1,0 +1,53 @@
+.button {
+    padding: 10px 0px;
+    width: 200px;
+    margin-left: 12px;
+    font-weight: 600;
+    font-size: 20px;
+    border-radius: 30px;
+    border: none;
+    cursor: pointer;
+}
+
+.blackButton {
+    background-color: #000;
+    color: #fff;
+}
+
+.greenButton {
+    background-color: #00C0A6;
+    color: #fff;
+    font-weight: 400;
+}
+
+.blueButton {
+    background-color: #9EE2FF;
+    color: #000;
+}
+
+.yellowButton {
+    background-color: #FBBC05;
+    color: #fff;
+}
+
+.mid {
+    padding: 16px;
+    width: 270px;
+    
+    @media(max-width: 1024px){
+        padding: 10px;
+        width: 200px;
+    }
+}
+
+.large {
+    padding: 16px;
+    width: 400px;
+    border-radius: 40px;
+}
+
+.buttonModal {
+    width: 258px;
+    padding: 4px 0px;
+    font-size: 22px;
+}
