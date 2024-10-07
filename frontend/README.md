@@ -8,8 +8,8 @@ BootPlay  uma plataforma de compra de albums
 -------------------------------------------------------------------------
 ## Execute na pasta do projeto:
 
-npm install
-npm run dev
++ npm install
++ npm run dev
 -----------
 ## Tecnologias:
 
